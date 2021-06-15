@@ -10935,14 +10935,22 @@ p.lead {
   display: inline-flex;
   align-items: center;
   justify-content: center;
-  height: 3.5rem;
-  width: 3.5rem;
-  background-color: #495057;
+  height: 5rem;
+  width: 5rem;
+
   color: #fff;
   border-radius: 100%;
-  font-size: 1.5rem;
+  font-size: 3rem;
   margin-right: 1.5rem;
 
+}
+
+.linkedin {
+  background-color: #0A66C2;
+}
+
+.github {
+  background-color: #495057;
 }
 
 .social-icons .social-icon:last-child {
